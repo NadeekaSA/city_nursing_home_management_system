@@ -1,4 +1,4 @@
-                                                            # City Nursing Home Management System
+# City Nursing Home Management System
 
 A Java desktop application designed to manage the operations of a nursing home.
 
