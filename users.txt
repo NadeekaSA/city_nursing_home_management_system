@@ -1,0 +1,5 @@
+user,password,cashier
+username2,password2,manager
+C001,c001,Consultant
+Cash02,cash01,Cashier
+C001,c001,Consultant
